@@ -41,5 +41,10 @@ If the username or password is incorrect, an error message is displayed:
 ### Steps to Run  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/fyne-login-app.git  
-   cd fyne-login-app  
+   git clone https://github.com/CasildaPaul/GUI-.git  
+   cd GUI-
+
+  2.Run the application
+
+  ```sh
+   go run main.go
